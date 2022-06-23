@@ -6,3 +6,9 @@
 $ git init
 Initialized empty Git repository
 ```
+
+
+### Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
